@@ -1,7 +1,7 @@
 import './style.css'
 
 document.getElementById('app').innerHTML = `
-  <h1 class="title"> Rick and Morty App </h1>
+  <h1 class="title"> Rick and Morty App Fernando Aguilar</h1>
   <section id="character-container" class="container"></section>
 
 `
